@@ -678,7 +678,8 @@ header .nav-link {
 .brand-main .brand-logo .col div {
   display: flex;
   align-content: center;
-  height: 130px;
+  /*height: 130px;*/
+    height: 8rem;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -1209,3 +1210,4 @@ ul.footer-menu-hr li a:hover {
     opacity: 1;
   }
 }
+
