@@ -159,7 +159,7 @@ if ($(window).width() > 1200) {
                 }
             });
         } else {
-            // 🎯 Dummy animation to maintain timeline scroll
+            // ðŸŽ¯ Dummy animation to maintain timeline scroll
             tl.to(clipTarget, {
                 clipPath: "polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
                 duration: 0.1
