@@ -111,6 +111,16 @@
   .banner-platform{
          background-image: url("../images/platform/platform-bg.jpg");
    }
+
+
+  /*=== case study Page Start ===*/  
+     .case-study-hero{
+         background-image: url("../images/case-study/hero-banner.png");
+   }
+    
+       .case-study-text-blur{
+         background-image: url("../images/case-study/text-blur.png");
+   }
   
   
 }
